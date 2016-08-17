@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/xacaxulu/RailsDockerVagrantDevKit.svg)](https://travis-ci.org/xacaxulu/RailsDockerVagrantDevKit)
+[![Build Status](https://travis-ci.org/mday100/rails-docker-vagrant-example.svg)](https://travis-ci.org/mday100/rails-docker-vagrant-example)
 
 # Edit Code Locally => Test/Execute in Vagrant against Docker
 
